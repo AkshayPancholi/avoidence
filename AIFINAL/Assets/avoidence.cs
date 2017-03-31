@@ -103,7 +103,7 @@ public class avoidence : MonoBehaviour
 
         Quaternion torotation = Quaternion.LookRotation(direction);
 
-        transform.rotation = torotation;//Quaternion.Slerp(transform.rotation, torotation, Time.deltaTime);
+        transform.rotation = Quaternion.Slerp(transform.rotation, torotation, Time.deltaTime);
 
         transform.Translate(Vector3.forward * Time.deltaTime * 5f);
 
