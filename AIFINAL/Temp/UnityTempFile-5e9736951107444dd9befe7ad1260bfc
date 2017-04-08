@@ -82,7 +82,9 @@
 -define:UNITY_TEAM_LICENSE
 'Assets/Edge.cs'
 'Assets/NodeClass1.cs'
+'Assets/ObbMath.cs'
 'Assets/Pathfinder.cs'
+'Assets/aviod.cs'
 'Assets/avoidence.cs'
 -r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/System.Xml.Linq.dll'

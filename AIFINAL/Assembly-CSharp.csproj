@@ -48,7 +48,9 @@
   <ItemGroup>
      <Compile Include="Assets\Edge.cs" />
      <Compile Include="Assets\NodeClass1.cs" />
+     <Compile Include="Assets\ObbMath.cs" />
      <Compile Include="Assets\Pathfinder.cs" />
+     <Compile Include="Assets\aviod.cs" />
      <Compile Include="Assets\avoidence.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
